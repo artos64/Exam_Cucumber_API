@@ -11,7 +11,7 @@ _Используемый стек:_
 
 ### Логика проекта организована по паттену Page Object, осуществлена разбивка по:
 - [Методу Создания пользователя](https://github.com/artos64/Exam_Cucumber_API/blob/master/src/main/java/apiSteps/CreateUserSteps.java)
-- [Методам Получения и сравнения информации между персонажами]([https://github.com/artos64/Exam_Junit_UI/tree/master/src/main/java/pageObject/baseSteps](https://github.com/artos64/Exam_Cucumber_API/blob/master/src/main/java/apiSteps/RickAndMortySteps.java))
+- [Методам Получения и сравнения информации между персонажами](https://github.com/artos64/Exam_Junit_UI/tree/master/src/main/java/pageObject/baseSteps)
 
 ### Запуск автотестов осуществляется в методе [RunTest](https://github.com/artos64/Exam_Cucumber_API/blob/master/src/test/java/tests/RunTest.java)
 
