@@ -16,6 +16,4 @@ public interface Properties extends Reloadable {
     @Key("baseUrlRickAndMorty")
     String baseUrlRickAndMorty();
 
-    @Key("idPerson")
-    String idPerson();
 }
